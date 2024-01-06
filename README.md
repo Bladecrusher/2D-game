@@ -1,5 +1,5 @@
 Elf In The Woods
-https://www.youtube.com/watch?v=-O7yI_q6BEA
+
 
 Project Overview: Elf In the Woods
     The "Elf In the Woods" project is a 2D game created using the Lua-based LÖVE framework. It encompasses various gameplay elements including player movement, collision detection, game states, UI elements, sound effects, and a visual map. The game revolves around an elf character navigating through a forest, seeking hidden spots while encountering obstacles and challenges.
